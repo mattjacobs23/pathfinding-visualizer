@@ -51,7 +51,7 @@ algorithm_btn = Button(
 )
 algorithm_btn.rect.centery = top.centery
 
-
+# Create algorithm menu
 algo_menu = Menu(
     surface=WINDOW,
     button=algorithm_btn,
